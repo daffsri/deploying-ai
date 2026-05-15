@@ -1,0 +1,11 @@
+name,description,indoor,cost,group,tags
+ROM Visit,Explore world history and dinosaur exhibits indoors,yes,$$,solo,"museum history learning"
+High Park Walk,Walk trails visit the small zoo and enjoy nature,no,free,group,"outdoors nature walking"
+Distillery District,Art galleries cafes and cobblestone streets,no,$,group,"art food culture"
+Casa Loma Tour,Historic castle tour with beautiful rooms,yes,$$,group,"history architecture indoor"
+Toronto Islands Ferry,Ferry ride picnic and skyline views,no,$,group,"outdoors picnic water"
+Kensington Market,Eclectic shops vintage stores and food,no,free,solo,"shopping food culture"
+AGO Visit,Modern and classic art exhibits indoors,yes,$$,solo,"art museum quiet"
+Harbourfront Walk,Lakefront walking path with parks and views,no,free,group,"outdoors water skyline"
+St Lawrence Market,Historic market with amazing food vendors,yes,$,group,"food indoor culture"
+Evergreen Brick Works,Trails farmers market and nature space,no,free,group,"nature market outdoors"
